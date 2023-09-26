@@ -1,2 +1,6 @@
 # data_analyst
-my works with data
+Здесь будут показаны мом работы с данными
+
+
+
+
